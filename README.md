@@ -1,7 +1,5 @@
 
 ### Hello 😺, my name is Rodrigo and I am a student of Information and Communication Technology with a focus on software development. As a junior programmer, I am new to the industry but I am incredibly passionate about technology and committed to learning as much as I can.
-<br/>
-
 ### ICTs that I have knowledge of:
 
 <div style="display: inline_block"><br/>
